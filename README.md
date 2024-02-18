@@ -1,2 +1,2 @@
-# learn-xr-design
+# learn XR design
 Learn XR Design
